@@ -2,8 +2,8 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "Mosaic Mania",
-    "description": "Mosaic Mania minigame for the Decentraland 2.0 Quest challanges",
+    "title": "Example - Mosaic Mania",
+    "description": "Mosaic Mania minigame open source example",
     "navmapThumbnail": "images/thumb_MosaicMania.png",
     "favicon": "favicon_asset"
   },
