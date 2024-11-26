@@ -1,0 +1,52 @@
+{
+  "ecs7": true,
+  "runtimeVersion": "7",
+  "display": {
+    "title": "Mosaic Mania",
+    "description": "Mosaic Mania minigame for the Decentraland 2.0 Quest challanges",
+    "navmapThumbnail": "images/thumb_MosaicMania.png",
+    "favicon": "favicon_asset"
+  },
+  "owner": "",
+  "contact": {
+    "name": "SDK",
+    "email": ""
+  },
+  "main": "bin/index.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "-121,-59"
+    ],
+    "base": "-121,-59"
+  },
+  "spawnPoints": [
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": [
+          6,
+          10
+        ],
+        "y": [
+          0,
+          0
+        ],
+        "z": [
+          14,
+          15
+        ]
+      },
+      "cameraTarget": {
+        "x": 8,
+        "y": 1,
+        "z": 8
+      }
+    }
+  ],
+  "featureToggles": {
+    "voiceChat": "enabled",
+    "portableExperiences": "enabled"
+  }
+}
